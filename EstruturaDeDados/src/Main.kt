@@ -67,4 +67,5 @@ fun main() {
         "GRAMA " to  listOf("AGUA, TERRA, PEDRA"),// a minha é uma String
         "VENENO" to listOf("FADA, PLANTA") //o meu valor é uma lista de String
     )//CHAVE to VALOR
+
 }
